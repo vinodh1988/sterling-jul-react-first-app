@@ -1,0 +1,17 @@
+th,td{
+    height: 30px;
+    padding: 5px;
+    width: 120px;
+    font-family: arial;
+}
+
+
+#report th{
+    background-color: darkred;
+    color: whitesmoke;
+}
+
+#report td{
+    background-color: rgb(245, 240, 240);
+    color: darkblue;
+}
